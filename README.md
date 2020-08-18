@@ -17,6 +17,7 @@
 
 - 💬 Ask me about ...
   how I contributed for a school project to create a Homestay webpage <br>
+  The first idea: https://marvelapp.com/prototype/aggidd3/screen/69192331 <br>
   The repository: https://github.com/Room4You-BSI <br>
   The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
 
