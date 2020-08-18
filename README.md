@@ -6,23 +6,23 @@
 **Naneshoru/Naneshoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ...
-  Learning shortcuts
+- 🔭 I’m currently working on ... <br>
+  learning shortcuts
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... <br>
   Python
   
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... <br>
   Angular framework projects
 
 - 💬 Ask me about ...
-  How I contributed for a school project to create a Homestay webpage
-  The repository: https://github.com/Room4You-BSI
-  The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home
+  how I contributed for a school project to create a Homestay webpage <br>
+  The repository: https://github.com/Room4You-BSI <br>
+  The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... <br>
   Send me an e-mail at atakiama@usp.br or whatsapp (16)99464-3295
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... <br>
 “You have power over your mind - not outside events" Marco Aurélio
 
