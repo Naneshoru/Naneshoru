@@ -4,7 +4,7 @@
 
 <!--
 **Naneshoru/Naneshoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently working on ...
   Learning shortcuts
@@ -25,4 +25,4 @@
 
 - ⚡ Fun fact: ...
 “You have power over your mind - not outside events" Marco Aurélio
--->
+
