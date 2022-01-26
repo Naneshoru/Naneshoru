@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m currently working on ... <br>
-  Using my 3-year Architecture grad experience to connect with the Front-end web development
+  Using my 3-year Architecture grad experience to connect with the Front-end web development (1-year Angular experience)
 
 - 🌱 I’m currently learning ... <br>
   starting React Framework
