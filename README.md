@@ -10,7 +10,7 @@
   Using my 3-year Architecture grad experience to connect with the Front-end web development (1-year Angular experience)
 
 - 🌱 I’m currently learning ... <br>
-  starting React Framework
+  starting React Framework (01/2022)
   
 - 👯 I’m looking to collaborate on ... <br>
   Angular/React framework projects 
