@@ -28,8 +28,8 @@
 “You have power over your mind - not outside events" Marco Aurélio
 
 <div style="display: flex; justify-content: space-around" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" style="max-width: 50%"/>
 </div><br>
 
 ### Worked with:
