@@ -27,7 +27,7 @@
 - ⚡ Fun fact: ... <br>
 “You have power over your mind - not outside events" Marco Aurélio
 
-<div>
+<div style="display: flex; justify-content: space-around" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" />
 </div><br>
