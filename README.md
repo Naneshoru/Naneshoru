@@ -20,6 +20,11 @@
   The first idea: https://marvelapp.com/prototype/aggidd3/screen/69192331 <br>
   The repository: https://github.com/Room4You-BSI <br>
   The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
+  
+  My three main projects in the initial months of 2022
+  -https://atakiama-cadastro-de-curriculo.netlify.app/
+  -https://atakiama-video-aulas-redux.netlify.app/
+  -https://atakiama-catalogo-de-produtos.netlify.app/
 
 - 📫 How to reach me: ... <br>
   Send me an e-mail at atakiama@usp.br or whatsapp (16)99464-3295
