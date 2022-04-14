@@ -21,7 +21,7 @@
   The repository: https://github.com/Room4You-BSI <br>
   The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
   
-  My three main projects in the initial months of 2022
+  My three main projects in the initial months of 2022 <br>
   -https://atakiama-cadastro-de-curriculo.netlify.app/ <br>
   -https://atakiama-video-aulas-redux.netlify.app/ <br>
   -https://atakiama-catalogo-de-produtos.netlify.app/ <br>
