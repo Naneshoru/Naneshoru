@@ -22,9 +22,9 @@
   The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
   
   My three main projects in the initial months of 2022
-  -https://atakiama-cadastro-de-curriculo.netlify.app/
-  -https://atakiama-video-aulas-redux.netlify.app/
-  -https://atakiama-catalogo-de-produtos.netlify.app/
+  -https://atakiama-cadastro-de-curriculo.netlify.app/ <br>
+  -https://atakiama-video-aulas-redux.netlify.app/ <br>
+  -https://atakiama-catalogo-de-produtos.netlify.app/ <br>
 
 - 📫 How to reach me: ... <br>
   Send me an e-mail at atakiama@usp.br or whatsapp (16)99464-3295
