@@ -4,7 +4,7 @@
 
 <!--
 **Naneshoru/Naneshoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 - 🔭 I’m currently working on ... <br>
   Using my 3-year Architecture grad experience to connect with the Front-end web development (1-year Angular experience)
@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact: ... <br>
 “You have power over your mind - not outside events" Marco Aurélio
-
+-->
 <div style="display: flex; justify-content: space-around" >
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 50%" align="center" height="180em"/>
@@ -61,18 +61,4 @@
   
 </div><br>
 
-### Rushing:
-<div style="display: flex">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-  <img align="center" alt="material-ui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  
-  <img align="center" alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-</div><br>
 
-### Enjoyed playing with:
-<div style="display: flex">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div><br>
