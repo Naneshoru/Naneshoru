@@ -82,10 +82,11 @@
     PostCss
   </span>
 
-  <span style="text-align: center;">
-   <img align="center" alt="CSS Modules Logo" height="30" width="40" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" height="40">
-    CSS Modules
-  </span>
+<span >
+  <img alt="CSS Modules Logo" align="top" height="25" src="https://img.shields.io/badge/%E2%80%8B-CSS%20Modules-f5f5f5?style=flat&logo=css-modules&logoColor=white" />
+</span>
+  
+
   </p>
 
   <p style="display: flex;">
