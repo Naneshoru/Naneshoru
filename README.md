@@ -42,23 +42,98 @@
 </div><br>
 
 ### Worked with:
-<div style="display: flex">
-  <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  
- <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+<div style="display: flex;flex-direction: column;gap: 8px;">
 
- <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <p style="text-align: center;">
+     <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+     Figma
+  </p>
 
- <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <p style="display: flex;">
+    <span style="text-align: center;">
+     <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     HTML
+    </span>
+  
+   <span style="text-align: center;">
+      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+      CSS
+    </span>
+  
+   <span style="text-align: center;">
+     <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+     JS
+    </span>
+  </p>
 
- <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <p style="display: flex;">
+  <span style="text-align: center;">
+   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   TS
+  </span>
+    
+  <span style="text-align: center;">
+    <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+    Sass
+  </span>
   
- <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
+  <span style="text-align: center;">
+    <img align="center" alt="PostCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg">
+    PostCss
+  </span>
+
+  <span style="text-align: center;">
+   <img align="center" alt="CSS Modules Logo" height="30" width="40" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" height="40">
+    CSS Modules
+  </span>
+  </p>
+
+  <p style="display: flex;">
+  <span style="text-align: center;">
+    <img align="center" alt="Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+    Eslint
+  </span>
+
+  <span style="text-align: center;">
+    <img align="center" alt="Prettier" height="30" src="https://prettier.io/icon.png">    
+    Prettier
+  </span>
+  </p>
+   
+  <p style="display: flex;">
+   <span style="text-align: center;">
  <img align="center" alt="angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    Angular
+  </span>
 
- <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+  <span style="text-align: center;">
+   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+    React
+  </span>
+  </p>
+  
+  <p style="display: flex;">
+  <span style="text-align: center;">
+   <img align="center" alt="vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+   Vite
+  </span>
+
+  <span style="text-align: center;">
+     <img align="center" alt="storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
+      Storybook
+  </span>
+
+  <span style="text-align: center;">
+   <img align="center" alt="anima" height="24" src="https://www.wappalyzer.com/images/icons/Anima.svg" /> &nbsp;
+    Anima
+  </span>
+  </p>
+
+  
   
 </div><br>
 
+  
+
+          
 
