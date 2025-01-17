@@ -130,9 +130,9 @@
   </span>
   </p>
 
-
-  Conheça minha biblioteca de componentes 😀
-  Clique aqui!
+<br><br>
+  Conheça minha biblioteca de componentes 😀<br>
+  Clique aqui!<br>
   https://inovacaopadtec-react-components.netlify.app/
   
 </div><br>
