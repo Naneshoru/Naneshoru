@@ -131,7 +131,7 @@
   </p>
 
 <br><br>
-  Conheça minha biblioteca de componentes 😀<br>
+  Conheça a biblioteca de componentes que pude produzir 😀<br>
   Clique aqui!<br>
   https://inovacaopadtec-react-components.netlify.app/
   
