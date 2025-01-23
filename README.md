@@ -134,7 +134,16 @@
   Conheça a biblioteca de componentes que pude produzir 😀<br>
   Clique aqui!<br>
   https://inovacaopadtec-react-components.netlify.app/
+  <br><br>
+
+  Projeto cadastro de currículo
+  https://atakiama-cadastro-de-curriculo.netlify.app/
   
+  Projeto vídeo aulas
+  https://atakiama-video-aulas-redux.netlify.app/
+  
+  Projeto catálogo de produtos 
+  https://atakiama-catalogo-de-produtos.netlify.app/
 </div><br>
 
   
