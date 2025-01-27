@@ -136,14 +136,8 @@
   https://inovacaopadtec-react-components.netlify.app/
   <br><br>
 
-  Projeto cadastro de currículo
-  https://atakiama-cadastro-de-curriculo.netlify.app/
-  
-  Projeto vídeo aulas
-  https://atakiama-video-aulas-redux.netlify.app/
-  
-  Projeto catálogo de produtos 
-  https://atakiama-catalogo-de-produtos.netlify.app/
+  Ou veja o portifólio completo:
+  https://ratakiama.tech/
 </div><br>
 
   
