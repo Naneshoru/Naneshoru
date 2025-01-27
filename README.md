@@ -143,5 +143,5 @@
   
 
           
-Meu novo e-mail é atakiama@outlook.com.br.
+Meu novo e-mail é atakiama@outlook.com.br.<br>
 O atakiama@usp.br não está mais ativo!
