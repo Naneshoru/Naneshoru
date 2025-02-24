@@ -140,4 +140,4 @@
   https://ratakiama.tech/
 </div><br>
           
-E-mail: atakiama@outlook.com.br.<br>
+E-mail: atakiama@outlook.com.br<br>
