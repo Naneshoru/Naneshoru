@@ -139,9 +139,5 @@
   Ou veja o portifólio completo:
   https://ratakiama.tech/
 </div><br>
-
-  
-
           
-Meu novo e-mail é atakiama@outlook.com.br.<br>
-O atakiama@usp.br não está mais ativo!
+E-mail: atakiama@outlook.com.br.<br>
