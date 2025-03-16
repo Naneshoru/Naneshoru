@@ -33,13 +33,12 @@
 “You have power over your mind - not outside events" Marco Aurélio
 -->
 <div style="display: flex; justify-content: space-around" >
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 50%" align="center" height="180em"/>
-  </ a>
-  &nbsp;
-  <a>
+  <div style="padding-bottom: 4px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 100%;">
+</div>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" style="max-width: 50%" align="center" height="180em" />
-  </ a>
+  </ div>
 </div><br>
 
 ### Worked with:
