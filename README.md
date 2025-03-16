@@ -36,6 +36,7 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 50%" align="center" height="180em"/>
   </ a>
+  &nbsp;
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" style="max-width: 50%" align="center" height="180em" />
   </ a>
