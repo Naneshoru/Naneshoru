@@ -133,7 +133,7 @@
 <br><br>
   Conheça a biblioteca de componentes que pude produzir 😀<br>
   Clique aqui!<br>
-  https://inovacaopadtec-react-components.netlify.app/
+  https://inovacaopadtec-react-components.netlify.app/?path=/docs/components-button--docs
   <br><br>
 
   Ou veja o portifólio completo:
