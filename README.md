@@ -61,8 +61,6 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
   <img src="https://www.wappalyzer.com/images/icons/Anima.svg" height="30" alt="Anima" />
 </p>
 
-#### Qualidade
-
 ---
 
 ## 📊 GitHub Stats
