@@ -1,143 +1,77 @@
-# :man_technologist: Ricardo Atakiama 
+# 👨‍💻 Desenvolvedor de Software Frontend | React | Angular | Typescript
 
-### Hi there 👋
+Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada como desenvolvedor frontend com mais de 3 anos de experiência, com forte base em design, arquitetura de software e foco em boas práticas.
 
-<!--
-**Naneshoru/Naneshoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## 🔍 Sobre mim
+- 🎓 Graduação em Arquitetura com transição para Desenvolvimento de Software
+- 💼 Experiência com Angular, React, Typescript e ferramentas modernas de frontend
+- 🎯 Interesse crescente por backend com Node.js e integração com APIs REST
+- 🌱 Estudando integração com IA e DevOps
+- 📫 Contato: atakiama@usp.br | WhatsApp: (16) 99464-3295
 
-- 🔭 I’m currently working on ... <br>
-  Using my 3-year Architecture grad experience to connect with the Front-end web development (1-year Angular experience)
+---
 
-- 🌱 I’m currently learning ... <br>
-  starting React Framework (01/2022)
-  
-- 👯 I’m looking to collaborate on ... <br>
-  Angular/React framework projects 
+## 🚀 Projetos em destaque
 
-- 💬 Ask me about ...
-  how I contributed for a school project to create a Homestay webpage (2020) <br> 
-  The first idea: https://marvelapp.com/prototype/aggidd3/screen/69192331 <br>
-  The repository: https://github.com/Room4You-BSI <br>
-  The page: http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home <br>
-  
-  My three main React projects in the initial months of 2022 <br>
-  -https://atakiama-cadastro-de-curriculo.netlify.app/ <br>
-  -https://atakiama-video-aulas-redux.netlify.app/ <br>
-  -https://atakiama-catalogo-de-produtos.netlify.app/ <br>
+### 📚 Portfólio completo
+🔗 [ratakiama.tech](https://ratakiama.tech/) (portfólio pessoal com projetos, stack e contatos)
 
-- 📫 How to reach me: ... <br>
-  Send me an e-mail at atakiama@usp.br or whatsapp (16)99464-3295
+### 🧰 Component Library (Storybook + Netlify)
+🔗 [Biblioteca de Componentes React](https://inovacaopadtec-react-components.netlify.app/?path=/docs/components-button--docs)
 
-- ⚡ Fun fact: ... <br>
-“You have power over your mind - not outside events" Marco Aurélio
--->
-<div style="display: flex; justify-content: space-around" >
-  <div style="padding-bottom: 4px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" style="max-width: 100%;">
+### 🧪 Projetos em React
+- [Sistema de Login em produção!](https://atakiama-react-basic-login.netlify.app/)
+- [Cadastro de Currículo](https://atakiama-cadastro-de-curriculo.netlify.app/)
+- [Video Aulas com Redux](https://atakiama-video-aulas-redux.netlify.app/)
+- [Catálogo de Produtos](https://atakiama-catalogo-de-produtos.netlify.app/)
+
+### 🏠 Projeto Acadêmico - Homestay
+- 🎨 Protótipo: [Marvel App](https://marvelapp.com/prototype/aggidd3/screen/69192331)
+- 💻 Repositório: [Room4You-BSI](https://github.com/Room4You-BSI)
+- 🌐 Página: [Room4You](http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home)
+
+---
+
+### 🚀 Tecnologias & Ferramentas
+
+#### Linguagens & Marcação
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+</p>
+
+#### Frameworks & Bibliotecas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="Storybook" />
+</p>
+
+#### Estilo & Ferramentas de UI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-original.svg" height="30" alt="PostCSS" />
+  <img src="https://img.shields.io/badge/CSS%20Modules-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://www.wappalyzer.com/images/icons/Anima.svg" height="30" alt="Anima" />
+</p>
+
+#### Qualidade
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" height="180em" />
 </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" style="max-width: 50%" align="center" height="180em" />
-  </ div>
-</div><br>
 
-### Worked with:
-<div style="display: flex;flex-direction: column;gap: 8px;">
+---
 
-  <p style="text-align: center;">
-     <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
-     Figma
-  </p>
+> "Você tem poder sobre sua mente — não sobre eventos externos. Perceba isso, e encontrará força." — Marco Aurélio
 
-  <p style="display: flex;">
-    <span style="text-align: center;">
-     <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     HTML
-    </span>
-  
-   <span style="text-align: center;">
-      <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-      CSS
-    </span>
-  
-   <span style="text-align: center;">
-     <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-     JS
-    </span>
-  </p>
-
-  <p style="display: flex;">
-  <span style="text-align: center;">
-   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   TS
-  </span>
-    
-  <span style="text-align: center;">
-    <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
-    Sass
-  </span>
-  
-  <span style="text-align: center;">
-    <img align="center" alt="PostCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg">
-    PostCss
-  </span>
-
-<span >
-  <img alt="CSS Modules Logo" align="top" height="25" src="https://img.shields.io/badge/%E2%80%8B-CSS%20Modules-f5f5f5?style=flat&logo=css-modules&logoColor=white" />
-</span>
-  
-
-  </p>
-
-  <p style="display: flex;">
-  <span style="text-align: center;">
-    <img align="center" alt="Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
-    Eslint
-  </span>
-
-  <span style="text-align: center;">
-    <img align="center" alt="Prettier" height="30" src="https://prettier.io/icon.png">    
-    Prettier
-  </span>
-  </p>
-   
-  <p style="display: flex;">
-   <span style="text-align: center;">
- <img align="center" alt="angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    Angular
-  </span>
-
-  <span style="text-align: center;">
-   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-    React
-  </span>
-  </p>
-  
-  <p style="display: flex;">
-  <span style="text-align: center;">
-   <img align="center" alt="vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-   Vite
-  </span>
-
-  <span style="text-align: center;">
-     <img align="center" alt="storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
-      Storybook
-  </span>
-
-  <span style="text-align: center;">
-   <img align="center" alt="anima" height="24" src="https://www.wappalyzer.com/images/icons/Anima.svg" /> &nbsp;
-    Anima
-  </span>
-  </p>
-
-<br><br>
-  Conheça a biblioteca de componentes que pude produzir 😀<br>
-  Clique aqui!<br>
-  https://inovacaopadtec-react-components.netlify.app/?path=/docs/components-button--docs
-  <br><br>
-
-  Ou veja o portifólio completo:
-  https://ratakiama.tech/
-</div><br>
-          
-E-mail: atakiama@outlook.com.br<br>
