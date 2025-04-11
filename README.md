@@ -9,7 +9,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 - 💼 Experiência com Angular, React, Typescript e ferramentas modernas de frontend
 - 🎯 Interesse crescente por backend com Node.js e integração com APIs REST
 - 🌱 Estudando integração com IA e DevOps
-- 📫 Contato: atakiama@usp.br | WhatsApp: (16) 99464-3295
+- 📫 Contato: atakiama@outlook.com.br | WhatsApp: (16) 99464-3295
 
 ---
 
