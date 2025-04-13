@@ -1,4 +1,4 @@
-# 👨‍💻 Desenvolvedor de Software Frontend | React | Angular | Typescript
+# 👨‍💻 Desenvolvedor de Software Frontend | React | Typescript
 
 Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada como desenvolvedor frontend com mais de 3 anos de experiência, com forte base em design, arquitetura de software e foco em boas práticas.
 
