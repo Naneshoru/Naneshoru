@@ -23,6 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 
 ### 🧪 Projetos em React
 - [Sistema de Login JWT em produção!] (mas acabou o crédito do Railway) <br>
+  https://atakiama-react-basic-login.netlify.app/ <br>
   frontend https://github.com/Naneshoru/React-basic-login <br>
   backend https://github.com/Naneshoru/backend-auth
 - [Cadastro de Currículo](https://atakiama-cadastro-de-curriculo.netlify.app/)
