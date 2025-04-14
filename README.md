@@ -22,8 +22,8 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 🔗 [Biblioteca de Componentes React](https://inovacaopadtec-react-components.netlify.app/?path=/docs/components-button--docs)
 
 ### 🧪 Projetos em React
-- [Sistema de Login JWT em produção!] (mas acabou o crédito do Railway)
-  frontend https://github.com/Naneshoru/React-basic-login
+- [Sistema de Login JWT em produção!] (mas acabou o crédito do Railway) <br>
+  frontend https://github.com/Naneshoru/React-basic-login <br>
   backend https://github.com/Naneshoru/backend-auth
 - [Cadastro de Currículo](https://atakiama-cadastro-de-curriculo.netlify.app/)
 - [Video Aulas com Redux](https://atakiama-video-aulas-redux.netlify.app/)
