@@ -23,12 +23,19 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 
 ### 🧪 Projetos em React
 - [Sistema de Login JWT em produção!] (mas acabou o crédito do Railway) <br>
-  https://atakiama-react-basic-login.netlify.app/ <br>
-  frontend https://github.com/Naneshoru/React-basic-login <br>
-  backend https://github.com/Naneshoru/backend-auth
-- [Cadastro de Currículo](https://atakiama-cadastro-de-curriculo.netlify.app/)
-- [Video Aulas com Redux](https://atakiama-video-aulas-redux.netlify.app/)
-- [Catálogo de Produtos](https://atakiama-catalogo-de-produtos.netlify.app/)
+    autenticação, autorização, refresh token, autologin, nginx proxy reverso lida com cors, Docker
+    https://atakiama-react-basic-login.netlify.app/ <br>
+    frontend https://github.com/Naneshoru/React-basic-login <br>
+    backend https://github.com/Naneshoru/backend-auth <br>
+   <br>
+- Download de livros de autores <br>
+    GraphQL frontend + backend – Node | Express | Apollo Server <br>
+    frontend https://github.com/Naneshoru/gql-catalogo-de-livros <br>
+    backend https://github.com/Naneshoru/gql-books/ <br>
+  <br>
+- Desafio tabela responsiva <br>
+    UI 100% componentizada e customizável, com Typescript e sem bibliotecas externas <br>
+    https://github.com/Naneshoru/desafio-front-end <br>
 
 ### 🏠 Projeto Acadêmico - Homestay
 - 🎨 Protótipo: [Marvel App](https://marvelapp.com/prototype/aggidd3/screen/69192331)
