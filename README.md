@@ -36,12 +36,6 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 - Desafio tabela responsiva <br>
     UI 100% componentizada e customizável, com Typescript e sem bibliotecas externas <br>
     https://github.com/Naneshoru/desafio-front-end <br>
-
-### 🏠 Projeto Acadêmico - Homestay
-- 🎨 Protótipo: [Marvel App](https://marvelapp.com/prototype/aggidd3/screen/69192331)
-- 💻 Repositório: [Room4You-BSI](https://github.com/Room4You-BSI)
-- 🌐 Página: [Room4You](http://dev-room4you.frontend.s3-website.us-east-2.amazonaws.com/home)
-
 ---
 
 ### 🚀 Tecnologias & Ferramentas
