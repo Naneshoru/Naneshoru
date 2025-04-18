@@ -23,7 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 
 ### 🧪 Projetos em React
 - [Sistema de Login JWT]
-    autenticação, autorização, refresh token, autologin, nginx proxy reverso lida com cors, Docker
+    autenticação, autorização, refresh token, autologin, nginx proxy reverso lida com cors, Docker <br>
     frontend https://github.com/Naneshoru/React-basic-login <br>
     backend https://github.com/Naneshoru/backend-auth <br>
    <br>
