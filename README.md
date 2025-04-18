@@ -22,9 +22,8 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 🔗 [Biblioteca de Componentes React](https://inovacaopadtec-react-components.netlify.app/?path=/docs/components-button--docs)
 
 ### 🧪 Projetos em React
-- [Sistema de Login JWT em produção!] (mas acabou o crédito do Railway) <br>
+- [Sistema de Login JWT]
     autenticação, autorização, refresh token, autologin, nginx proxy reverso lida com cors, Docker
-    https://atakiama-react-basic-login.netlify.app/ <br>
     frontend https://github.com/Naneshoru/React-basic-login <br>
     backend https://github.com/Naneshoru/backend-auth <br>
    <br>
