@@ -66,7 +66,7 @@ Bem-vindo ao meu GitHub! Aqui você encontra projetos que mostram minha jornada 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naneshoru&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naneshoru&layout=compact&theme=radical&exclude_repo=trabalhos" height="180em" />
